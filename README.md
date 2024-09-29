@@ -26,13 +26,11 @@ The program considers the following US currency denominations:
 
 ## Example
 
-```plaintext
+```
 Amount charged: 19.99
 Amount given: 20.00
 Output:
 
-plaintext
-Copy code
 Change to return:
 1¢: 1
 ```
